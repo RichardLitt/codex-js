@@ -1,6 +1,8 @@
 codex-js
 ========
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/RichardLitt/codex-js.svg)](https://greenkeeper.io/)
+
 A collection of Javascript idiosyncracies and examples.
 
 This is meant to expose many weird oddities of Javascript. It is meant to be all inclusive; if you see something that isn't represented in here, by all means, please add it in. 
